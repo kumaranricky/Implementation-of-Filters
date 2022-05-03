@@ -29,9 +29,6 @@ Anaconda - Python 3.7
 ## Program:
 ### Developed By   :Kumaran.B
 ### Register Number:212220230026
-</br>
-
-### 1. Smoothing Filters
 ```Python
 import cv2
 import numpy as np
@@ -39,6 +36,7 @@ img=cv2.imread("water.jpg")
 img=cv2.resize(img,(500,400))
 img2=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 ```
+### 1. Smoothing Filters
 i) Using Averaging Filter
 ```Python
 
