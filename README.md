@@ -27,8 +27,8 @@ Anaconda - Python 3.7
 </br> 
 
 ## Program:
-# Developed By   :Kumaran.B
-# Register Number:212220230026
+### Developed By   :Kumaran.B
+### Register Number:212220230026
 ```Python
 import cv2
 import numpy as np
