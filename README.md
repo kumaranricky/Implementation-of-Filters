@@ -99,12 +99,14 @@ cv2.destroyAllWindows()
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+![Screenshot (139)](https://user-images.githubusercontent.com/75243072/166453290-0ebe97b3-9280-4909-8bab-cfc9d0168f3d.png)
 
 
 ii) Using Weighted Averaging Filter
+![Screenshot (140)](https://user-images.githubusercontent.com/75243072/166453449-a05ef607-5767-4bab-8960-29b23825fa07.png)
 
 
-iii) Using Weighted Averaging Filter
+iii) Using Gaussian Filter
 
 
 iv) Using Median Filter
