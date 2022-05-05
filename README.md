@@ -101,24 +101,23 @@ cv2.destroyAllWindows()
 i) Using Averaging Filter
 ![Screenshot (139)](https://user-images.githubusercontent.com/75243072/166453290-0ebe97b3-9280-4909-8bab-cfc9d0168f3d.png)
 
-
 ii) Using Weighted Averaging Filter
 ![Screenshot (140)](https://user-images.githubusercontent.com/75243072/166453449-a05ef607-5767-4bab-8960-29b23825fa07.png)
 
-
 iii) Using Gaussian Filter
-
+![Screenshot (146)](https://user-images.githubusercontent.com/75243072/166920109-a35d82fb-7a47-4fb7-b41d-d2fa33510085.png)
 
 iv) Using Median Filter
-
+![Screenshot (147)](https://user-images.githubusercontent.com/75243072/166920164-e2a42b52-2c95-4ad5-b2f6-28a732773b0a.png)
 
 ### 2. Sharpening Filters
 
-
 i) Using Laplacian Kernal
+![Screenshot (148)](https://user-images.githubusercontent.com/75243072/166920308-b991b1b9-37c6-442f-8694-51cac7ef53b8.png)
 
 
 ii) Using Laplacian Operator
+![Screenshot (149)](https://user-images.githubusercontent.com/75243072/166920484-9632a09e-62e5-4fde-8dc1-4b319fe59cbb.png)
 
 
 ## Result:
