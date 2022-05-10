@@ -7,39 +7,58 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1
-Import the necessary modules
+Import the necessary modules.
+</br>
+</br> 
 
 ### Step2
 For performing smoothing operation on a image.
 
-Average filter:
-
+* Average filter
+```
 avg_kernel=np.ones((13,13),np.float32)/169
 average_filter_image=cv2.filter2D(image,-1,avg_kernel)
-Weighted average filter :
-
+```
+* Weighted average filter
+```
 wt_avg_kernel=np.array([[1,2,1],[2,4,2],[1,2,1]])/16
 wt_average_filter_image=cv2.filter2D(image,-1,wt_avg_kernel)
-Gaussian Blur:
+```
 
+* Gaussian Blur
+```
 gaussian_blur=cv2.GaussianBlur(image,(31,31),0,0)
-Median filter:
+```
 
+* Median filter
+```
 median_blur=cv2.medianBlur(image,11)
+```
+</br>
+</br> 
 
 ### Step3
 For performing sharpening on a image.
 
-Laplacian Kernel:
-
+* Laplacian Kernel
+```
 lap_kernel=np.array([[-1,-1,-1],[-1,8,-1],[-1,-1,-1]])
 lap_image=cv2.filter2D(image,-1,lap_kernel)
-Laplacian Operator:
+```
 
+* Laplacian Operator
+```
 Lap_sharp=cv2.Laplacian(image,cv2.CV_64F)
+```
+</br>
+</br> 
 
 ### Step4
 Display all the images with their respective filters.
+</br>
+</br> 
+
+
 
 
 ## Program:
