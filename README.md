@@ -8,9 +8,6 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1
 Import the necessary modules.
-</br>
-</br> 
-
 ### Step2
 For performing smoothing operation on a image.
 
@@ -50,16 +47,11 @@ lap_image=cv2.filter2D(image,-1,lap_kernel)
 ```
 Lap_sharp=cv2.Laplacian(image,cv2.CV_64F)
 ```
-</br>
-</br> 
 
 ### Step4
 Display all the images with their respective filters.
 </br>
 </br> 
-
-
-
 
 ## Program:
 ### Developed By   :Kumaran.B
