@@ -88,27 +88,29 @@ cv2.destroyAllWindows()
 
 ## OUTPUT:
 ### 1. Smoothing Filters
-
 i) Using Averaging Filter
-![Screenshot (139)](https://user-images.githubusercontent.com/75243072/166453290-0ebe97b3-9280-4909-8bab-cfc9d0168f3d.png)
+![Screenshot (301)](https://user-images.githubusercontent.com/75243072/173770624-6bba9b8b-aef5-43f1-b3ec-e4c59c4920a7.png)
+
 
 ii) Using Weighted Averaging Filter
-![Screenshot (140)](https://user-images.githubusercontent.com/75243072/166453449-a05ef607-5767-4bab-8960-29b23825fa07.png)
+![Screenshot (302)](https://user-images.githubusercontent.com/75243072/173770705-c689a536-8eb8-4cbf-a3ae-e9522c149a1c.png)
+
 
 iii) Using Gaussian Filter
-![Screenshot (146)](https://user-images.githubusercontent.com/75243072/166920109-a35d82fb-7a47-4fb7-b41d-d2fa33510085.png)
+![Screenshot (303)](https://user-images.githubusercontent.com/75243072/173770818-25c31261-243c-47f3-aa7b-28d63531cffb.png)
+
 
 iv) Using Median Filter
-![Screenshot (147)](https://user-images.githubusercontent.com/75243072/166920164-e2a42b52-2c95-4ad5-b2f6-28a732773b0a.png)
+![Screenshot (304)](https://user-images.githubusercontent.com/75243072/173770852-f521d984-4933-4db0-8c42-0836b7cfce7f.png)
+
 
 ### 2. Sharpening Filters
-
 i) Using Laplacian Kernal
-![Screenshot (148)](https://user-images.githubusercontent.com/75243072/166920308-b991b1b9-37c6-442f-8694-51cac7ef53b8.png)
+![Screenshot (305)](https://user-images.githubusercontent.com/75243072/173770903-0a74b938-14dd-4182-a51c-e115afd7bf87.png)
 
 
 ii) Using Laplacian Operator
-![Screenshot (149)](https://user-images.githubusercontent.com/75243072/166920484-9632a09e-62e5-4fde-8dc1-4b319fe59cbb.png)
+![Screenshot (306)](https://user-images.githubusercontent.com/75243072/173771026-21640025-5610-4384-b4c7-301552ec80a9.png)
 
 
 ## Result:
